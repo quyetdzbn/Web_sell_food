@@ -13,7 +13,7 @@ CÁC CHỨC NĂNG CHÍNH
 + Quản lý đơn hàng: chấp nhận, huỷ
 + Quản lý Loại sản phẩm: thêm, sửa, xoá
 -	Người dùng: http://localhost:8020/shop/
-+ Đăng nhập
++ Đăng nhập Authencation,authorization 
 + Đăng ký
 + Mua sản phẩm: Thêm , xoá sản phẩm, tìm kiếm sản phẩm
 + Thanh toán
