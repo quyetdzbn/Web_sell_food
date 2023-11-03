@@ -7,7 +7,7 @@ Hệ quản trị cơ sở dữ liệu: My SQL
 IDE: Intellija IDE
 CÁC CHỨC NĂNG CHÍNH 
 -	Admin: http://localhost:8019/admin/login
-+ Đăng nhập: Authencation 
++ Đăng nhập: Authencation,authorization 
 + Đăng ký
 + Quản lý sản phẩm: thêm sửa xoá, tìm kiếm sản phẩm
 + Quản lý đơn hàng: chấp nhận, huỷ
